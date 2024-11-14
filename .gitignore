@@ -1,0 +1,5 @@
+./build
+./cmake-build-debug
+./venv
+./.polyscope.ini
+./imgui.ini
